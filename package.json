@@ -27,7 +27,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "countup.js-angular2": "^7.3.0",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "ngx-perfect-scrollbar": "^8.0.0",
     "ngx-popper": "^7.0.0",
     "popper.js": "^1.16.0",
